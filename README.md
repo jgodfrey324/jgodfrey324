@@ -1,13 +1,6 @@
 # Hello!! 👋
 
 ### Full-stack development (link soon) 💖 // Competitive weightlifter // Will support cats in costumes 🐱 // Aspiring game dev
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,express,flask,github,html,js,nodejs,postgres,postman,py,react,redux,sqlite,sequelize,vscode&theme=dark" />
-  </a>
-</p>
-
 Have a game you need volunteers for, or just want someone to help with planning or debugging?
 Contact me! --> 
 
@@ -15,8 +8,17 @@ Contact me! -->
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/)
 
 https://wellfound.com/u/jenna-godfrey-2
+***
 
-### Public repo stats:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,express,flask,github,html,js,nodejs,postgres,postman,py,react,redux,sqlite,sequelize,vscode&theme=dark" />
+  </a>
+</p>
+
+
+## Public repo stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgodfrey324&show_icons=true&theme=transparent&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgodfrey324&layout=compact)
 
