@@ -2,7 +2,7 @@
 
 ### Full-stack development (link soon) 💖 // Competitive weightlifter // Will support cats in costumes 🐱 // Aspiring game dev
 
-Have a game you need volunteers for, or just someone to help with planning or debugging?
+Have a game you need volunteers for, or just want someone to help with planning or debugging?
 Contact me! --> 
 * https://wellfound.com/u/jenna-godfrey-2
 * https://www.linkedin.com/in/jenna-godfrey-6ba51b107/
