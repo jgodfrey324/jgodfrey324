@@ -1,4 +1,4 @@
-# Hello!1 👋
+# Hello!!! 👋
 
 ### Full-stack development (link soon) 💖 // Competitive weightlifter // Will support cats in costumes 🐱 // Aspiring game dev
 Have a game you need volunteers for, or just want someone to help with planning or debugging?
