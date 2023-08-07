@@ -8,7 +8,9 @@ Contact me! -->
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/)
 
 https://wellfound.com/u/jenna-godfrey-2
-Email: jennagodfrey324@gmail.com
+<p>
+  Email: jennagodfrey324@gmail.com
+</p>
 ***
 
 
