@@ -6,9 +6,7 @@ Contact me! -->
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jenna-godfrey-6ba51b107/)
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/)
-<p>
-  Email: jennagodfrey324@gmail.com
-</p>
+
 <p>
   
 </p>
