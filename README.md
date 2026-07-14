@@ -1,11 +1,6 @@
 # Hello!! 👋
 
-### Full-stack development (link soon) 💖 // Competitive weightlifter // Will support cats in costumes 🐱 // Aspiring game dev
-Have a game you need volunteers for, or just want someone to help with planning or debugging?
-Contact me! --> 
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jenna-godfrey-6ba51b107/)
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/)
+### Full-stack development (link soon) 💖 // Competitive weightlifter // Will support cats in costumes 🐱
 
 <p>
   
